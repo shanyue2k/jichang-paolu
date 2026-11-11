@@ -1,0 +1,9 @@
+# GitHub Pages 设置：仓库首页 README 会自动生成网页 https://shanyue2k.github.io/jichang-paolu/
+title: 2026 机场跑路名单与替代推荐（持续更新）
+description: 近期跑路、失联机场汇总，怎么判断机场是不是真的跑路、跑路了怎么办，以及替代机场推荐与优惠码。完整资料见 jichanghao.com。
+lang: zh-CN
+theme: jekyll-theme-primer
+url: https://shanyue2k.github.io
+baseurl: /jichang-paolu
+plugins:
+  - jekyll-seo-tag
